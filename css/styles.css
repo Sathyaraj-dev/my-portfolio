@@ -11200,6 +11200,7 @@ section.resume-section .resume-section-content {
 
 .project-card-img {
   overflow: hidden;
+  max-height: 162px;
 }
 
 .project-card img {
@@ -11209,12 +11210,13 @@ section.resume-section .resume-section-content {
 }
 
 .project-card img:hover {
-	-webkit-transform: scale(1.3);
-	transform: scale(1.3);
+	-webkit-transform: scale(1.2);
+	transform: scale(1.2);
 }
 
 .project-card-content h4 {
   color: #fff;
+  font-size: 20px;
 }
 
 .project-card-content {
