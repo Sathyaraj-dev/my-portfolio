@@ -1,8 +1,3 @@
-/*!
- * Start Bootstrap - Resume v7.0.6 (https://startbootstrap.com/theme/resume)
- * Copyright 2013-2023 Start Bootstrap
- * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-resume/blob/master/LICENSE)
- */
 //
 // Scripts
 //
@@ -34,9 +29,9 @@ window.addEventListener("DOMContentLoaded", (event) => {
 var lang = {
   html: "100%",
   css: "90%",
-  javascript: "70%",
-  php: "55%",
-  angular: "65%",
+  javascript: "80%",
+  php: "80%",
+  angular: "90%",
 };
 
 var multiply = 4;
